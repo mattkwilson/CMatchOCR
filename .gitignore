@@ -1,0 +1,11 @@
+﻿*.suo
+*.user
+.idea/
+.vs/
+[Bb]in/
+[Oo]bj/
+Screenshots/
+_UpgradeReport_Files/
+[Pp]ackages/
+Desktop.ini
+.DS_Store
